@@ -1,86 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kaleb Bateman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kaleb Bateman
+Programmer, philologist, aspiring polyglot.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kaleb97@byui.edu">kaleb97@byui.edu</a>
+| 925-818-5654
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+A student at BYU–Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software design and development, linguistics, UX testing and research
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine learning, classics, astrophysics
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2023-Current`
+__Brigham Young University–Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- *Major: Software Engineering*
+- *Minor: World Languages*
+- *Certifications: TESOL, Program Design*
 
-- Sizar
+`August 2016-May 2020`
+__Diablo Valley College__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- *Associates: Japanese*
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+## Skills
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
++:-----------------------------+:-----------------------------+:-----------------------------+
+| - C++ and C#                 | - Python                     | - Kotlin                     |
++------------------------------+------------------------------+------------------------------+
+| - Erlang                     | - SQL                        | - Program Design             |
++------------------------------+------------------------------+------------------------------+
+| - UX Research                | - Spanish and Japanese       | - Teamwork and communication |
++------------------------------+------------------------------+------------------------------+
 
 
-## Occupation
+## Programming Projects
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- [Shogi for Android](https://github.com/97Kaleb/Shogi-Fall_25) (Kotlin)
+- [International Phonetic Alphabet IME for Android](https://github.com/97Kaleb/Android-IPA-Keyboard) (Kotlin)
+- [Sudoku Generator](https://github.com/97Kaleb/Sudoku-Fall_25) (Erlang)
 
 
 
